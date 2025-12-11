@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# Data (raw & large)
+data_raw/
+data_processed/
+
+# OS files
+.DS_Store
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
